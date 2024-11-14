@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.jpa.format-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.format-sql'"
+  },
+  {
+    "name": "spring.datasource.format-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.format-sql'"
+  }
+]}
