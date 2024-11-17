@@ -46,6 +46,7 @@ This repository includes examples and tutorials for the following technologies:
 
 ## Folder Structure
 
+```plaintext
 Java-Enterprise-Backend-Frameworks/
 │
 ├── jdbc/
