@@ -78,3 +78,16 @@ Java-Enterprise-Backend-Frameworks/
     ├── authentication/
     ├── versioning/
     └── documentation/
+
+
+---
+## Getting Started
+
+To start exploring the repository, follow these steps:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/<your-username>/Java-Enterprise-Backend-Frameworks.git
+
+2. **Navigate to the desired module** (e.g. jdbc/, spring-boot/) to explore code and examples.
